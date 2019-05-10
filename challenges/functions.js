@@ -43,6 +43,8 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explain in your own words why `nestedfunction()` can access the variable `internal`.
 
+// Nested function can acess internal because it is enclosed by the myFunction() function, placing internal within a similar scope to it.
+
 // Explanation: 
 
 
